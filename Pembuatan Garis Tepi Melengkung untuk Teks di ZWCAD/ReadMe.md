@@ -1,5 +1,5 @@
 # Deskripsi
-Program ini adalah skrip AutoLISP yang dirancang untuk digunakan dalam ZWCAD, yang berfungsi untuk menambahkan garis tepi melengkung di sekitar objek teks dan mtext yang dipilih oleh pengguna. Skrip ini memungkinkan pengguna untuk menentukan faktor offset dan radius fillet untuk sudut garis tepi. Setelah pengguna memilih teks, program akan menghitung posisi dan ukuran teks, kemudian menggambar garis tepi berbentuk kotak dengan sudut melengkung di sekeliling teks tersebut. Program ini sangat berguna untuk meningkatkan tampilan teks dalam desain teknik dan presentasi.
+Program ini adalah skrip AutoLISP yang dirancang untuk digunakan dalam ZWCAD, yang berfungsi untuk menambahkan garis tepi melengkung di sekitar objek teks dan mtext yang dipilih oleh pengguna. Skrip ini memungkinkan pengguna untuk menentukan faktor offset dan radius fillet untuk sudut garis tepi. Setelah pengguna memilih teks, program akan menghitung posisi dan ukuran teks, kemudian menggambar garis tepi berbentuk kotak dengan sudut melengkung di sekeliling teks tersebut. Program ini sangat berguna untuk meningkatkan tampilan teks dalam desain teknik.
 
 # Tutorial Cara Menjalankan Program di ZWCAD
 
